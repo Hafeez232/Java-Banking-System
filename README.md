@@ -1,4 +1,4 @@
-This my mini project for java subject in semester 3
+Mini project for java subject in semester 3
 
 **# Java-Banking-System**
 
